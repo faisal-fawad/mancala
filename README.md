@@ -35,7 +35,7 @@ A full implementation of the game (GUI) is already available and packaged to the
 
 [Mancala documentation](https://www.officialgamerules.org/mancala)
 
-## Images
+## Screenshots
 
 <img src="images/mainmenu.png" alt="Main menu">
 <img src="images/game.png" alt="Game menu">
